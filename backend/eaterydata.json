@@ -1,0 +1,30 @@
+[{
+    "eatery_id": 1,
+    "name": "PDC",
+    "contact": "033344222100",
+    "admin_username": "LUMSPDC",
+    "admin_password": "123pdc"
+
+},
+{
+    "eatery_id": 2,
+    "name": "Green Olive",
+    "contact": "033344222100",
+    "admin_username": "LUMSGreen",
+    "admin_password": "123green"
+
+},{
+    "eatery_id": 3,
+    "name": "Fusion",
+    "contact": "033344222100",
+    "admin_username": "LUMSFusion",
+    "admin_password": "123fusion"
+
+},{
+    "eatery_id": 4,
+    "name": "Cupcake Lounge",
+    "contact": "033344222100",
+    "admin_username": "123Cupcake",
+    "admin_password": "123cupcake"
+
+}]

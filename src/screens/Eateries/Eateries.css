@@ -1,0 +1,144 @@
+.image-container {
+  /* position: relative;
+
+  flex-wrap: wrap;
+  border-radius: 0px;
+  justify-content: center;
+  flex-direction: column;
+  row-gap: 20px;
+  padding: 0; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(./bg.jpg);
+  background-size: cover;
+  flex-direction: row;
+}
+
+.imgclass {
+  /* width:  auto; */
+  width: 240px;
+  height: 160px;
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+
+  display: flex;
+  margin-bottom: 30px;
+  /* margin-right: 30px; */
+
+  margin: 12px;
+}
+
+.imgborder {
+  margin: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(193, 185, 185, 0.8);
+
+  height: 300px;
+  width: 350px;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.image-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(./bg.jpg);
+  background-size: cover;
+  flex-direction: column;
+}
+
+.imgc {
+  display: flex;
+  flex-direction: row;
+  row-gap: 20%;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  padding: 0;
+  opacity: 0.82;
+  /* width: 12px; */
+  /* height: 30px  */
+
+  /* margin-top: 10px; */
+  /* margin-bottom: 20px; */
+}
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.welcome-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 40px;
+  max-width: 700px;
+  text-align: center;
+}
+
+.welcome-text {
+  font-size: 5rem;
+  margin-bottom: 20px;
+}
+
+.abstract-text {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.eatery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  /* flex-direction: column; */
+}
+
+.eateries-item {
+  width: 350px;
+  height: 180px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(193, 185, 185, 0.8);
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+  flex-direction: column;
+}
+
+
+.button-cart {
+  width: 300px;
+  height: 50px;
+
+  border: none;
+  border-radius: 30px;
+  font-size: 15px;
+  margin: 8px;
+  width: 100%;
+  color: black;
+  background: rgba(231, 161, 9, 0.95);
+}
+
+.div-button {
+  flex-direction: row;
+  display: flex;
+}

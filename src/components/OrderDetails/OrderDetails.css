@@ -1,0 +1,68 @@
+
+  .button {
+    display: flex;
+    border-radius: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #464d46;
+    color: white;
+    border: none;
+    margin-right: 20px;
+  }
+
+.sike_popup{
+  display: table;
+  max-height: 100%;
+}
+.od_popup {
+    display: table-cell;
+    background-color: rgb(193, 185, 185);
+    /* border: 2px solid rgb(231, 161, 9, 0.865); */
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+
+  }
+.od_title
+{
+     padding-top: '100px' 
+}
+
+.button1 {
+    display: flex;
+    border-radius: 20px;
+    /* padding-left: 10%; */
+    padding-right: 10%;
+    background-color: rgb(193, 185, 185);
+    color: rgb(17, 17, 17);
+    border: none;
+    margin-right: 20px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+ 
+ 
+
+  .od_label{
+    /* display: block; */
+    /* padding-left: 5%; */
+    /* padding-right: 10%; */
+    /* padding-top: 10%;
+    padding-bottom: 5%;*/
+    font-weight: bold; 
+    color:rgb(17, 17, 17);
+  }
+
+.items{
+  /* display: flex; */
+  margin:0;
+  text-align: left;
+  padding-left: 5%;
+  
+}
+
+.random{
+  color:rgb(193, 185, 185)
+}

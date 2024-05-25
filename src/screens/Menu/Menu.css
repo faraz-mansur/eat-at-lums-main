@@ -1,0 +1,28 @@
+.image-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    flex-direction: column;
+  }
+
+  .image-background2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./bg.jpg);
+    background-size: cover;
+  }
+
+  .eatery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  
+    /* flex-direction: column; */
+  }

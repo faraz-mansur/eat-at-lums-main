@@ -1,0 +1,32 @@
+.eateries-item2 {
+  width: 260px;
+  height: 150px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(193, 185, 185, 0.8);
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+  flex-direction: column;
+}
+
+.div-button {
+  flex-direction: row;
+  display: flex;
+}
+
+.button-cart {
+  width: 300px;
+  height: 40px;
+
+  border: none;
+  border-radius: 30px;
+  font-size: 13px;
+  margin: 3px;
+  width: 100%;
+  color: black;
+  background: rgba(231, 161, 9, 0.95);
+}

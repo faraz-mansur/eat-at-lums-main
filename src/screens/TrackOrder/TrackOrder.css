@@ -1,0 +1,271 @@
+
+
+  .title{
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(193, 185, 185)
+  }
+
+
+
+
+  .circle1{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgb(193, 185, 185);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+  .circle1_mustard{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgba(231, 161, 9, 0.865);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+
+
+
+
+  .circle2{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgb(193, 185, 185);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+
+  .circle2_mustard{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgba(231, 161, 9, 0.865);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+
+  .circle3{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgb(193, 185, 185);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+
+  .circle3_mustard{
+    margin-left: 0;
+    margin-right: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:rgba(231, 161, 9, 0.865);
+    position: relative;
+    font-size: 30px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+  }
+
+  .circles{
+    padding-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-top: 10%; */
+  }
+
+  .number1{
+    position: absolute;
+    font-size: 18px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .buttons{
+    width: 100%;
+    padding-top: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .rider_button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgba(231, 161, 9, 0.865);
+    /* color: white; */
+    border: none;
+    padding-top: 1%;
+    margin-right: 20px;
+    width: 150px;
+    height: 100px;
+    /* background-image: url(report.png); */
+  }
+  
+
+    .hello {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+  .rider_details {
+    background-color: rgb(193, 185, 185);
+    /* border: 2px solid rgb(231, 161, 9, 0.865); */
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px;
+    height: 250px;
+  
+  }
+
+  .line1{
+    /* padding-bottom: 2%; */
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.7%;
+    border-top: 2px solid rgb(193, 185, 185);
+    width: 15%;
+  }
+
+  .line1_mustard{
+    /* padding-bottom: 2%; */
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.7%;
+    border-top: 2px solid rgba(231, 161, 9, 0.865);
+    width: 15%;
+  }
+
+  .line2_mustard{
+    /* padding-bottom: 2%; */
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.7%;
+    border-top: 2px solid rgba(231, 161, 9, 0.865);
+    width: 15%;
+  }
+
+  .line2{
+    /* padding-bottom: 2%; */
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.7%;
+    border-top: 2px solid rgb(193, 185, 185);
+    width: 15%;
+  }
+
+  .line-div{
+    padding-bottom: 2%;
+  }
+
+  .close {
+    display: flex;
+    border-radius: 20px;
+    /* padding-left: 10%; */
+    padding-right: 10%;
+    background-color: rgb(193, 185, 185);
+    color: rgb(17, 17, 17);
+    border: none;
+    margin-right: 20px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .labels
+  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: rgb(193, 185, 185);
+  }
+
+  .label1{
+    padding-left: 10%; 
+    padding-right: 8%;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .label2{
+    padding-left: 10px;
+    padding-right: 10%;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .label3{
+    /* padding-left: 10%; */
+    padding-right: 10%;
+
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .contact_rider{
+    padding-top: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  body {
+    background-image: url(zoltan-tasi-ID8pKVA5E9g-unsplash.jpg);
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    position: relative;
+  }
+  body::before {
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }

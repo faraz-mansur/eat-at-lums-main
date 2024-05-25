@@ -1,0 +1,43 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: rgb(199, 234, 250); */
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    /* opacity: 0.9; */
+}
+
+
+.box2 {
+    background-color: rgb(193, 185, 185);
+    margin: auto auto;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000;
+    position: absolute;
+
+    width: 600px;
+    height: 400px;
+
+    justify-content: center;
+  }
+
+.text {
+    justify-content: center;
+    padding-left: 20px;
+    font-size: 45px;
+    padding-bottom: 30px;
+
+    font-style: bold;
+}
+
+
+.text2 {
+    justify-content: center;
+    padding-left: 20px;
+    font-size: 25px;
+    font-style: italic;
+    padding-top: 20px;
+}

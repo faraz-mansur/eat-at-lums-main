@@ -1,0 +1,64 @@
+[
+  {
+    "order_id": 1,
+    "item": "Biryani",
+    "price": 250,
+    "quantity": 2
+  },
+  {
+    "order_id": 1,
+    "item": "Brown Rice",
+    "price": 250,
+    "quantity": 2
+  },
+  {
+    "order_id": 1,
+    "item": "Burger",
+    "price": 250,
+    "quantity": 2
+  },
+  {
+    "order_id": 1,
+    "item": "Fries",
+    "price": 250,
+    "quantity": 2
+  },
+
+  {
+    "order_id": 2,
+    "item": "Biryani",
+    "price": 250,
+    "quantity": 1
+  },
+  {
+    "order_id": 2,
+    "item": "coke",
+    "price": 250,
+    "quantity": 1
+  },
+
+  {
+    "order_id": 3,
+    "item": "Biryani",
+    "price": 250,
+    "quantity": 1
+  },
+  {
+    "order_id": 4,
+    "item": "Biryani",
+    "price": 250,
+    "quantity": 1
+  },
+  {
+    "order_id": 5,
+    "item": "tacos",
+    "price": 250,
+    "quantity": 1
+  },
+  {
+    "order_id": 6,
+    "item": "nachos",
+    "price": 250,
+    "quantity": 1
+  }
+]
